@@ -9,4 +9,12 @@ of the rails 3.2.2 app (active_resource3).
 
 A simple app that support a model via rest.
 
+## Start the apps
+
+
+1. `cd active_resource3 && ./server.sh`
+1. `cd active_resource23 && ./server.sh`
+
+
+
 
